@@ -1,2 +1,2 @@
 # ATM_application
-ATM application core Java and OOPS concepts
+ATM application using core Java and OOPS concepts
